@@ -11,9 +11,11 @@ FLOSS
 YARA
 Maltego
 CuckooSandbox 
+Microsoft Network Monitor (you can launch the malware, watch the processes and it captures a pcap)
 
-
-Reverse Engineering Tools
+===========================
+Reverse Engineering Tools:
+===========================
 Remnux
 Apktool
 dex2jar
