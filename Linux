@@ -13,6 +13,7 @@ Maltego
 CuckooSandbox 
 Microsoft Network Monitor (you can launch the malware, watch the processes and it captures a pcap)
 Autoruns (MS Sysinternal suite)
+Sooty https://github.com/TheresAFewConors/Sooty
 
 
 ===========================
