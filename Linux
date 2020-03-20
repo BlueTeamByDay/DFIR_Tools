@@ -15,7 +15,8 @@ Microsoft Network Monitor (you can launch the malware, watch the processes and i
 Autoruns (MS Sysinternal suite)
 Sooty https://github.com/TheresAFewConors/Sooty
 IDA Debugger
-
+Argus (openargus.org)
+Fiddler (http/https proxy)
 
 ===========================
 Reverse Engineering Tools:
